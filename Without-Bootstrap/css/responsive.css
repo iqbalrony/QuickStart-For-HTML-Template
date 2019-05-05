@@ -1,0 +1,46 @@
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+/*For ipad landscape*/
+@media (min-width: 992px) and (max-width: 1024px) {
+
+}
+
+/*For Tablet Layout*/
+@media only screen and (max-width: 991px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/*For Wide Mobile Layout*/
+@media only screen and (max-width: 767px) {
+
+}
+
+/*For modern Wide Mobile Layout*/
+@media only screen and (max-width: 575px) {
+
+}
+
+/*For 320-384px up Mobile Layout*/
+@media only screen and (max-width: 479px) {
+
+}
+
+/*	Retina media query.
+	Overrides styles for devices with a
+	device-pixel-ratio of 2+, such as iPhone 4.
+-----------------------------------------------    */
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+
+}
